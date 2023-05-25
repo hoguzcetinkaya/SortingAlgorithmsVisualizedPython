@@ -1,0 +1,2 @@
+# SortingAlgorithmsVisualizedPython
+ Yazılım geliştirme laboratuvarı dersi için geliştirilmiş sıralama algoritmalarının görselleştirilme projesi
