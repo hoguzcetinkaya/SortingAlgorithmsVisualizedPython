@@ -1,4 +1,4 @@
-# Bağlı Liste Kullanarak Yapboz Oyunu
+# Sıralama Algoritmalarının Görselleştirilip Animasyonlaşması
 
 ## Açıklama
  Kullanıcının isteğine göre seçtiği bir sıralama algoritmasının görselleştirilerek sıralama animasyonu gerçekleştirilmektedir.
