@@ -230,7 +230,7 @@ def QuickSort():
             elif gtipi == 'Scatter':
                 graph_ax.scatter(list(range(adet)), dizi,color=colors)
             elif gtipi == 'Stem':
-                graph_ax.stem(list(range(adet)), dizi,color=colors)
+                graph_ax.stem(list(range(adet)), dizi)
             graph_canvas.draw()
             root.update()
             plt.pause((101-hizBoyut.get())/1000)
